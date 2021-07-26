@@ -1,3 +1,30 @@
 <resources>
+
     <string name="app_name">The Cars Data</string>
+
+    <string name="name_empty">не выбран</string>
+    <string name="bmw">BMW</string>
+    <string name="audi">AUDI</string>
+    <string name="nissan">Nissan</string>
+    <string name="tayota">Tayota</string>
+    <string name="kia">Kia</string>
+    <string name="lada">Lada</string>
+    <string name="infinity">Infinity</string>
+    <string name="opel">Opel</string>
+    <string name="mazda">Mazda</string>
+
+    <string name="color_empty">не выбран</string>
+    <string name="white_color">белый</string>
+    <string name="black_color">черный</string>
+    <string name="gray_color">серый</string>
+    <string name="red_color">красный</string>
+    <string name="blue_color">синий</string>
+    <string name="yellow_color">желтый</string>
+
+    <string name="engine_empty">не выбран</string>
+    <string name="petrol">бензин</string>
+    <string name="combine">гибрид</string>
+    <string name="electro">электро</string>
+
+
 </resources>

@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TheCarsData">
-        <activity android:name=".AddOrEditCarActivity"></activity>
 
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -17,11 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <provider
-            android:authorities="com.tomb.thecarsdata"
-            android:name=".db.CarContentProvider"
-            android:exported="false"/>
     </application>
 
 </manifest>

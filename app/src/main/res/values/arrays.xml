@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="array_name_car">
+        <item>не выбран</item>
+        <item>Mazda</item>
+        <item>BMW</item>
+        <item>AUDI</item>
+        <item>Nissan</item>
+        <item>Tayota</item>
+        <item>KIA</item>
+        <item>LADA</item>
+        <item>Infinity</item>
+        <item>Opel</item>
+    </string-array>
+
     <string-array name="array_color">
+        <item>не выбран</item>
         <item>белый</item>
         <item>черный</item>
         <item>серый</item>
         <item>красный</item>
         <item>синий</item>
         <item>желтый</item>
-        <item>не выбрано</item>
     </string-array>
+
     <string-array name="array_engine">
+        <item>не выбран</item>
         <item>бензин</item>
         <item>гибрид</item>
         <item>электро</item>
-        <item>не выбрано</item>
     </string-array>
 </resources>
